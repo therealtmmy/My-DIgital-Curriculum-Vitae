@@ -1,2 +1,2 @@
 # Hey there, welcome!
-This is a my Digital Curriculum Vitae. 
+This is my Digital Curriculum Vitae. 
